@@ -57,3 +57,10 @@ Kør spillet i Playmode i editor, og se at bolden hopper
 
 1. Åbn `Build Setting` vindue, og vælg dit Oculus headset i `Run Device`
 1. Tryk `Build and Run`, og spillet bliver bygget og overført til dit headset
+
+
+## Referencer
+
+- `Hands Unity Package` fra [How To Make A VR Game In Unity - Part One: Setup & Gun](https://www.youtube.com/watch?v=EjKvB9YQQY8)
+- [Basketkurv 3D model](https://www.freepik.com/3d-model/basketball-hoop-001_164.htm)
+- [Basketball texture](https://www.robinwood.com/Catalog/FreeStuff/Textures/TexturePages/BallMaps.html)
