@@ -25,7 +25,7 @@ Dette er vejledning til at lave et VR basketball spil til Oculus Quest 2 VR head
 
 ## Sæt XR rig op
 
-1. Drag/drop `XR Origin` and `XR Interaction Manager` with hands
+1. Drag/drop `XR Origin` and `XR Interaction Manager` prefabs, som indeholder XR rig og hænder
 1. Fjen det original kamera fra scenen, da vi har kamera i XR rig
 
 ## Basketball
