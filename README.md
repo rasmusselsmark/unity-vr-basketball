@@ -15,8 +15,8 @@ Dette er vejledning til at lave et VR basketball spil til Oculus Quest 2 VR head
   - Angiv et projekt navn, f.eks. `com.companyname.vr`
   - Vælg `Settings -> XR Plugin Management` settings og installer pakke
   - Sæt `Quality` level `High` default
-1. Importér [XR Origin.unitypackage](<XR Origin.unitypackage>)
-1. Importér [Basketball Hoop Materials.unitypackage](<Basketball Hoop Materials.unitypackage>)
+1. Importér [XR Origin.unitypackage](https://github.com/rasmusselsmark/unity-vr-basketball/raw/main/XR%20Origin.unitypackage)
+1. Importér [Basketball Hoop Materials.unitypackage](https://github.com/rasmusselsmark/unity-vr-basketball/raw/main/Basketball%20Hoop%20Materials.unitypackage)
 
 ## Simpel græsplæne
 
