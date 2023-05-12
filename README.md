@@ -38,6 +38,7 @@ Vi laver en simpel basketball fra bunden
 1. Sæt størrelse til `(0.35, 0.35, 0.35)` (= 35 cm)
 1. Tilføj `XR Grab Interactable` komponent, og sæt `Colliders` og `Attach Transform` til bolden selv
 1. Opret `Physics` mappe med nyt `Physic Material` som f.eks. navngives `Basketball`. Sæt `Bounciness` til `0.8` og vælg `Max bounciness`
+1. Klik og træk dit nye physics material på bolden
 
 Kør spillet i Playmode i editor, og se at bolden hopper
 
@@ -56,6 +57,7 @@ Kør spillet i Playmode i editor, og se at bolden hopper
 ## Spil spillet :)
 
 1. Åbn `Build Setting` vindue, og vælg dit Oculus headset i `Run Device`
+1. Tryk `Add Open Scene`
 1. Tryk `Build and Run`, og spillet bliver bygget og overført til dit headset
 
 
